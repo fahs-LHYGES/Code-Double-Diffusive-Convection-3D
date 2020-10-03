@@ -1,0 +1,46 @@
+1.d1                !Rayleigh
+2.d0                ! Lewis number
+0.5d0                ! gravity number
+0.1d0 0.2d0          ! poro   sigma  
+1                    !ni : A(0:ni - 1:nj - 1:nk) 
+2                    !nj : 
+2                    !nk : 
+2                    !nl: B(1:nl - 0:nm - 1:nn)
+1                    !nm : 
+2                    !nn : 
+1                    !nu : E(0:nu - 1:nv - 0:nw)
+2                    !nv :
+1                   !nw :
+2                    !ns:   G(1:ns - 0:np - 1:nt)
+1                    !np:
+1                    !nt:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2                  !ni : A(0:ni - 1:nj - 1:nk) 
+3                  !nj : 
+3                   !nk : 
+3                   !nl: B(1:nl - 0:nm - 1:nn)
+2                  !nm : 
+3                   !nn : 
+2                   !nu : E(0:nu - 1:nv - 0:nw)
+3                  !nv :
+2                   !nw :
+3                   !ns:   G(1:ns - 0:np - 1:nt)
+2                   !np:
+2                   !nt:
+0.5d0      ! omeag1
+0.01d0      ! omeag2
+0.01d0      ! omeag3
+
